@@ -79,7 +79,7 @@
 -   now for last step. 
 -   After scanning the qr new session.json file will create, copy the text of the file and paste it on session.json file
       click on heroku deploy button and bot is connected
--   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kid-Hacker999/Ari-Ani-md)
+-   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kid-Hacker999/shit)
     
 </p>
 
