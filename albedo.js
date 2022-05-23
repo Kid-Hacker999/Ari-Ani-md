@@ -1494,7 +1494,7 @@ case 'antilink':
         n = result
         images = n[Math.floor(Math.random() * n.length)].url
         let buttons = [
-                    {buttonId: `gimage ${text}`, buttonText: {displayText: '➡️Next Image➡️'}, type: 1}
+                    {buttonId: `gimage ${text}`, buttonText: {displayText: 'Next Image'}, type: 1}
                 ]
                 let buttonMessage = {
                     image: { url: images },
@@ -1534,16 +1534,16 @@ message = await prepareWAMessageMedia({ image : { url: anu.thumbnail } }, { uplo
                             hydratedFooterText: `Playing To ${text}`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: '🥬Video Source Link🥬',
+                                    displayText: 'Video Source Link',
                                     url: `${anu.url}`
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '🎵Audio🎵',
+                                    displayText: 'Audio',
                                     id: `ytmp3 ${anu.url} 320kbps`
                                     }
                                 },{quickReplyButton: {
-                                    displayText: '🎥VIdeo🎥',
+                                    displayText: 'VIdeo',
                                     id: `ytmp4 ${anu.url} 360p`
                                 }
                             }]
@@ -2381,37 +2381,37 @@ reply(`Successfully Reported To The Owner\n\nPlease Make Sure The Bug Is Valid, 
                     break 
 case 'tes': case 'test': case 'alive': case 'bot': case 'robot': case 'cheems': case 'asta':{
                 anu = `Hi ${pushname}
-Asta With You Forever!! 👻🤚`
+Juice With You Forever!! 👻🤚`
 const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
                         hydratedTemplate: {
                             hydratedContentText: anu,
                             locationMessage: {
-                            jpegThumbnail: fs.readFileSync('./Media/astapic.jpg')},
-                            hydratedFooterText: `Asta-MD`,
+                            jpegThumbnail: fs.readFileSync('./Media/IMG-20220523-WA0163.jpg')},
+                            hydratedFooterText: `Juice-Bot`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'Profile 📍',
-                                    url: 'https://github.com/Eximinati'
+                                    displayText: 'Profile ',
+                                    url: 'https://github.com/Eximi'
                                 }
                             }, {
                             	urlButton: {
-                                displayText: 'Script🔖',
-                                    url: 'https://github.com/Eximinati/Ari-Ani-md'
+                                displayText: 'Script',
+                                    url: 'https://github.com/'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '🍇All Menu🍇',
+                                    displayText: 'All Menu',
                                     id: `${prefix}allmenu`
                                 }
                                 }, {
                                 quickReplyButton: {
-                                    displayText: '🍒List Menu🍒',
+                                    displayText: 'List Menu',
                                     id: `${prefix}command`
                                 }
                                 }, {
                                 quickReplyButton: {
-                                    displayText: '👤Owner👤',
+                                    displayText: 'Owner',
                                     id: `${prefix}owner`
                                 }
                             }]
@@ -2495,7 +2495,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                         hydratedTemplate: {
                             hydratedContentText: anu,
                             locationMessage: {
-                            jpegThumbnail: fs.readFileSync('./Media/astapic.jpg')},
+                            jpegThumbnail: fs.readFileSync('./Media/IMG-20220523-WA0163.jpg')},
                             hydratedFooterText: `Hey ${pushname}
 How Are You? 😊
 
@@ -2724,7 +2724,7 @@ case 'downloadmenu': {
                         hydratedTemplate: {
                             hydratedContentText: okemenu,
                             locationMessage: {
-                            jpegThumbnail: fs.readFileSync('./Media/astapic.jpg')},
+                            jpegThumbnail: fs.readFileSync('./Media/IMG-20220523-WA0163.jpg')},
                             hydratedFooterText: `Juice-Bot`,
                             hydratedButtons: [{
                                 urlButton: {
@@ -3315,7 +3315,7 @@ break
                         hydratedTemplate: {
                             hydratedContentText: anu,
                             locationMessage: {
-                            jpegThumbnail: fs.readFileSync('./Media/astapic.jpg')},
+                            jpegThumbnail: fs.readFileSync('./Media/IMG-20220523-WA0163.jpg')},
                             hydratedFooterText: `Juice-Bot`,
                             hydratedButtons: [{
                                 urlButton: {
