@@ -3194,7 +3194,7 @@ break
   	anu = `
   *All Menu*
   
-      〔❖ Group Menu ❖〕
+╔〔❖ Group Menu ❖〕
 ║◈ ${prefix}grouplink
 ║◈ ${prefix}ephemeral [option]
 ║◈ ${prefix}setgrouppp
@@ -3206,8 +3206,8 @@ break
 ║◈ ${prefix}kick @user
 ║◈ ${prefix}promote @user
 ║◈ ${prefix}demote @user
-  
-      〔❖ Download Menu ❖〕
+╚════════════════✠  
+╔〔❖ Download Menu ❖〕
 ║◈ ${prefix}tiktoknowm [url]
 ║◈ ${prefix}tiktokwm [url]
 ║◈ ${prefix}tiktokmp3 [url]
@@ -3221,8 +3221,8 @@ break
 ║◈ ${prefix}ytmp4 [url]
 ║◈ ${prefix}getmusic [query]
 ║◈ ${prefix}getvideo [query
-  
-      〔❖ Search Menu ❖〕
+╚════════════════✠  
+╔〔❖ Search Menu ❖〕
 ║◈ ${prefix}play [query]
 ║◈ ${prefix}yts [query]
 ║◈ ${prefix}google [query]
@@ -3231,17 +3231,17 @@ break
 ║◈ ${prefix}wallpaper [query]
 ║◈ ${prefix}wikimedia [query]
 ║◈ ${prefix}ytsearch [query]
-  
-     〔❖ Random Menu ❖〕
+╚════════════════✠  
+╔〔❖ Random Menu ❖〕
 ║◈ ${prefix}coffee
 ║◈ ${prefix}couplepp
-  
-      〔❖ Fun Menu ❖〕
+╚════════════════✠  
+╔〔❖ Fun Menu ❖〕
 ║◈ ${prefix}couple
 ║◈ ${prefix}mysoulmate
 ║◈ ${prefix}math [mode]  
-  
-     〔❖ Voice Changer Menu ❖〕
+╚════════════════✠  
+╔〔❖ Voice Changer Menu ❖〕
 ║◈ ${prefix}bass
 ║◈ ${prefix}blown
 ║◈ ${prefix}deep
@@ -3253,8 +3253,8 @@ break
 ║◈ ${prefix}robot
 ║◈ ${prefix}slow
 ║◈ ${prefix}squirrel
-   
-     〔❖ Convert Menu ❖〕
+╚════════════════✠   
+╔〔❖ Convert Menu ❖〕
 ║◈ ${prefix}toimage
 ║◈ ${prefix}removebg
 ║◈ ${prefix}sticker
@@ -3264,8 +3264,8 @@ break
 ║◈ ${prefix}tourl
 ║◈ ${prefix}ebinary
 ║◈ ${prefix}dbinary
-  
-     〔❖ Misc Menu ❖〕
+╚════════════════✠  
+╔〔❖ Misc Menu ❖〕
 ║◈ ${prefix}ping
 ║◈ ${prefix}owner
 ║◈ ${prefix}donate
@@ -3277,8 +3277,8 @@ break
 ║◈ ${prefix}listgc
 ║◈ ${prefix}listonline
 ║◈ ${prefix}report (report bug to owner)
-  
-     〔❖ Database Menu ❖〕
+╚════════════════✠  
+╔〔❖ Database Menu ❖〕
 ║◈ ${prefix}setcmd
 ║◈ ${prefix}listcmd
 ║◈ ${prefix}delcmd
@@ -3287,18 +3287,18 @@ break
 ║◈ ${prefix}listmsg
 ║◈ ${prefix}getmsg
 ║◈ ${prefix}delmsg
-  
-      〔❖ Anonymous Menu ❖〕
+╚════════════════✠  
+╔〔❖ Anonymous Menu ❖〕
 ║◈ ${prefix}start ( Start Chat )
 ║◈ ${prefix}next ( Next user )
 ║◈ ${prefix}stop ( stop Anonymous chat )
-  
-      〔❖ System Menu ❖〕
+╚════════════════✠  
+╔〔❖ System Menu ❖〕
 ║◈ ${prefix}antilink On/Off
 ║◈ ${prefix}mute On/Off
 ║◈ ${prefix}antiwame On/Off
-  
-     〔❖ Owner Menu ❖〕
+╚════════════════✠  
+╔〔❖ Owner Menu ❖〕
 ║◈ ${prefix}chat [option]
 ║◈ ${prefix}join [link]
 ║◈ ${prefix}leave
@@ -3306,7 +3306,8 @@ break
 ║◈ ${prefix}block @user
 ║◈ ${prefix}unblock @user
 ║◈ ${prefix}bcgroup
-║◈ ${prefix}bcall`
+║◈ ${prefix}bcall
+╚════════════════✠`
     const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
                         hydratedTemplate: {
