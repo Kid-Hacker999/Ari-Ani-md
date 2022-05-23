@@ -3194,7 +3194,7 @@ break
   	anu = `
   *All Menu*
   
-  ꪶ🐕Group Menu🐕ꫂ
+      〔❖ Group Menu ❖〕
 ║◈ ${prefix}grouplink
 ║◈ ${prefix}ephemeral [option]
 ║◈ ${prefix}setgrouppp
@@ -3207,7 +3207,7 @@ break
 ║◈ ${prefix}promote @user
 ║◈ ${prefix}demote @user
   
-  ꪶ🐕Download Menu🐕ꫂ
+      〔❖ Download Menu ❖〕
 ║◈ ${prefix}tiktoknowm [url]
 ║◈ ${prefix}tiktokwm [url]
 ║◈ ${prefix}tiktokmp3 [url]
@@ -3222,7 +3222,7 @@ break
 ║◈ ${prefix}getmusic [query]
 ║◈ ${prefix}getvideo [query
   
-  ꪶ🐕Search Menu🐕ꫂ
+      〔❖ Search Menu ❖〕
 ║◈ ${prefix}play [query]
 ║◈ ${prefix}yts [query]
 ║◈ ${prefix}google [query]
@@ -3232,16 +3232,16 @@ break
 ║◈ ${prefix}wikimedia [query]
 ║◈ ${prefix}ytsearch [query]
   
-  ꪶ🐕Random Menu🐕ꫂ
+     〔❖ Random Menu ❖〕
 ║◈ ${prefix}coffee
 ║◈ ${prefix}couplepp
   
-  ꪶ🐕Fun Menu🐕ꫂ
+      〔❖ Fun Menu ❖〕
 ║◈ ${prefix}couple
 ║◈ ${prefix}mysoulmate
 ║◈ ${prefix}math [mode]  
   
-  ꪶ🐕Voice Changer Menu🐕ꫂ
+     〔❖ Voice Changer Menu ❖〕
 ║◈ ${prefix}bass
 ║◈ ${prefix}blown
 ║◈ ${prefix}deep
@@ -3254,7 +3254,7 @@ break
 ║◈ ${prefix}slow
 ║◈ ${prefix}squirrel
    
-  ꪶ🐕Convert Menu🐕ꫂ
+     〔❖ Convert Menu ❖〕
 ║◈ ${prefix}toimage
 ║◈ ${prefix}removebg
 ║◈ ${prefix}sticker
@@ -3265,7 +3265,7 @@ break
 ║◈ ${prefix}ebinary
 ║◈ ${prefix}dbinary
   
-  ꪶ🐕Misc Menu🐕ꫂ
+     〔❖ Misc Menu ❖〕
 ║◈ ${prefix}ping
 ║◈ ${prefix}owner
 ║◈ ${prefix}donate
@@ -3278,7 +3278,7 @@ break
 ║◈ ${prefix}listonline
 ║◈ ${prefix}report (report bug to owner)
   
-  ꪶ🐕Database Menu🐕ꫂ
+     〔❖ Database Menu ❖〕
 ║◈ ${prefix}setcmd
 ║◈ ${prefix}listcmd
 ║◈ ${prefix}delcmd
@@ -3288,17 +3288,17 @@ break
 ║◈ ${prefix}getmsg
 ║◈ ${prefix}delmsg
   
-  ꪶ🐕Anonymous Menu🐕ꫂ
+      〔❖ Anonymous Menu ❖〕
 ║◈ ${prefix}start ( Start Chat )
 ║◈ ${prefix}next ( Next user )
 ║◈ ${prefix}stop ( stop Anonymous chat )
   
-  ꪶ🐕System Menu🐕ꫂ
+      〔❖ System Menu ❖〕
 ║◈ ${prefix}antilink On/Off
 ║◈ ${prefix}mute On/Off
 ║◈ ${prefix}antiwame On/Off
   
-  ꪶ🐕Owner Menu🐕ꫂ
+     〔❖ Owner Menu ❖〕
 ║◈ ${prefix}chat [option]
 ║◈ ${prefix}join [link]
 ║◈ ${prefix}leave
