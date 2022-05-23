@@ -3195,118 +3195,118 @@ break
   *All Menu*
   
   ꪶ🐕Group Menu🐕ꫂ
-║➙ ${prefix}grouplink
-║➙ ${prefix}ephemeral [option]
-║➙ ${prefix}setgrouppp
-║➙ ${prefix}setname [text]
-║➙ ${prefix}group [option]
-║➙ ${prefix}editinfo [option]
-║➙ ${prefix}grupinfo
-║➙ ${prefix}add @user
-║➙ ${prefix}kick @user
-║➙ ${prefix}promote @user
-║➙ ${prefix}demote @user
+║◈ ${prefix}grouplink
+║◈ ${prefix}ephemeral [option]
+║◈ ${prefix}setgrouppp
+║◈ ${prefix}setname [text]
+║◈ ${prefix}group [option]
+║◈ ${prefix}editinfo [option]
+║◈ ${prefix}grupinfo
+║◈ ${prefix}add @user
+║◈ ${prefix}kick @user
+║◈ ${prefix}promote @user
+║◈ ${prefix}demote @user
   
   ꪶ🐕Download Menu🐕ꫂ
-║➙ ${prefix}tiktoknowm [url]
-║➙ ${prefix}tiktokwm [url]
-║➙ ${prefix}tiktokmp3 [url]
-║➙ ${prefix}instagram [url]
-║➙ ${prefix}ig2 [url]
-║➙ ${prefix}igreels [url]
-║➙ ${prefix}igtv [url]
-║➙ ${prefix}twitter [url]
-║➙ ${prefix}twittermp3 [url]
-║➙ ${prefix}ytmp3 [url]
-║➙ ${prefix}ytmp4 [url]
-║➙ ${prefix}getmusic [query]
-║➙ ${prefix}getvideo [query
+║◈ ${prefix}tiktoknowm [url]
+║◈ ${prefix}tiktokwm [url]
+║◈ ${prefix}tiktokmp3 [url]
+║◈ ${prefix}instagram [url]
+║◈ ${prefix}ig2 [url]
+║◈ ${prefix}igreels [url]
+║◈ ${prefix}igtv [url]
+║◈ ${prefix}twitter [url]
+║◈ ${prefix}twittermp3 [url]
+║◈ ${prefix}ytmp3 [url]
+║◈ ${prefix}ytmp4 [url]
+║◈ ${prefix}getmusic [query]
+║◈ ${prefix}getvideo [query
   
   ꪶ🐕Search Menu🐕ꫂ
-║➙ ${prefix}play [query]
-║➙ ${prefix}yts [query]
-║➙ ${prefix}google [query]
-║➙ ${prefix}gimage [query]
-║➙ ${prefix}pinterest [query]
-║➙ ${prefix}wallpaper [query]
-║➙ ${prefix}wikimedia [query]
-║➙ ${prefix}ytsearch [query]
+║◈ ${prefix}play [query]
+║◈ ${prefix}yts [query]
+║◈ ${prefix}google [query]
+║◈ ${prefix}gimage [query]
+║◈ ${prefix}pinterest [query]
+║◈ ${prefix}wallpaper [query]
+║◈ ${prefix}wikimedia [query]
+║◈ ${prefix}ytsearch [query]
   
   ꪶ🐕Random Menu🐕ꫂ
-║➙ ${prefix}coffee
-║➙ ${prefix}couplepp
+║◈ ${prefix}coffee
+║◈ ${prefix}couplepp
   
   ꪶ🐕Fun Menu🐕ꫂ
-║➙ ${prefix}couple
-║➙ ${prefix}mysoulmate
-║➙ ${prefix}math [mode]  
+║◈ ${prefix}couple
+║◈ ${prefix}mysoulmate
+║◈ ${prefix}math [mode]  
   
   ꪶ🐕Voice Changer Menu🐕ꫂ
-║➙ ${prefix}bass
-║➙ ${prefix}blown
-║➙ ${prefix}deep
-║➙ ${prefix}earrape
-║➙ ${prefix}fast
-║➙ ${prefix}fat
-║➙ ${prefix}nightcore
-║➙ ${prefix}reverse
-║➙ ${prefix}robot
-║➙ ${prefix}slow
-║➙ ${prefix}squirrel
+║◈ ${prefix}bass
+║◈ ${prefix}blown
+║◈ ${prefix}deep
+║◈ ${prefix}earrape
+║◈ ${prefix}fast
+║◈ ${prefix}fat
+║◈ ${prefix}nightcore
+║◈ ${prefix}reverse
+║◈ ${prefix}robot
+║◈ ${prefix}slow
+║◈ ${prefix}squirrel
    
   ꪶ🐕Convert Menu🐕ꫂ
-║➙ ${prefix}toimage
-║➙ ${prefix}removebg
-║➙ ${prefix}sticker
-║➙ ${prefix}emojimix
-║➙ ${prefix}tovideo
-║➙ ${prefix}togif
-║➙ ${prefix}tourl
-║➙ ${prefix}ebinary
-║➙ ${prefix}dbinary
+║◈ ${prefix}toimage
+║◈ ${prefix}removebg
+║◈ ${prefix}sticker
+║◈ ${prefix}emojimix
+║◈ ${prefix}tovideo
+║◈ ${prefix}togif
+║◈ ${prefix}tourl
+║◈ ${prefix}ebinary
+║◈ ${prefix}dbinary
   
   ꪶ🐕Misc Menu🐕ꫂ
-║➙ ${prefix}ping
-║➙ ${prefix}owner
-║➙ ${prefix}donate
-║➙ ${prefix}menu / ${prefix}help / ${prefix}?
-║➙ ${prefix}delete
-║➙ ${prefix}chatinfo
-║➙ ${prefix}quoted
-║➙ ${prefix}listpc
-║➙ ${prefix}listgc
-║➙ ${prefix}listonline
-║➙ ${prefix}report (report bug to owner)
+║◈ ${prefix}ping
+║◈ ${prefix}owner
+║◈ ${prefix}donate
+║◈ ${prefix}menu / ${prefix}help / ${prefix}?
+║◈ ${prefix}delete
+║◈ ${prefix}chatinfo
+║◈ ${prefix}quoted
+║◈ ${prefix}listpc
+║◈ ${prefix}listgc
+║◈ ${prefix}listonline
+║◈ ${prefix}report (report bug to owner)
   
   ꪶ🐕Database Menu🐕ꫂ
-║➙ ${prefix}setcmd
-║➙ ${prefix}listcmd
-║➙ ${prefix}delcmd
-║➙ ${prefix}lockcmd
-║➙ ${prefix}addmsg
-║➙ ${prefix}listmsg
-║➙ ${prefix}getmsg
-║➙ ${prefix}delmsg
+║◈ ${prefix}setcmd
+║◈ ${prefix}listcmd
+║◈ ${prefix}delcmd
+║◈ ${prefix}lockcmd
+║◈ ${prefix}addmsg
+║◈ ${prefix}listmsg
+║◈ ${prefix}getmsg
+║◈ ${prefix}delmsg
   
   ꪶ🐕Anonymous Menu🐕ꫂ
-║➙ ${prefix}start ( Start Chat )
-║➙ ${prefix}next ( Next user )
-║➙ ${prefix}stop ( stop Anonymous chat )
+║◈ ${prefix}start ( Start Chat )
+║◈ ${prefix}next ( Next user )
+║◈ ${prefix}stop ( stop Anonymous chat )
   
   ꪶ🐕System Menu🐕ꫂ
-║➙ ${prefix}antilink On/Off
-║➙ ${prefix}mute On/Off
-║➙ ${prefix}antiwame On/Off
+║◈ ${prefix}antilink On/Off
+║◈ ${prefix}mute On/Off
+║◈ ${prefix}antiwame On/Off
   
   ꪶ🐕Owner Menu🐕ꫂ
-║➙ ${prefix}chat [option]
-║➙ ${prefix}join [link]
-║➙ ${prefix}leave
-║➙ ${prefix}setbotpp
-║➙ ${prefix}block @user
-║➙ ${prefix}unblock @user
-║➙ ${prefix}bcgroup
-║➙ ${prefix}bcall`
+║◈ ${prefix}chat [option]
+║◈ ${prefix}join [link]
+║◈ ${prefix}leave
+║◈ ${prefix}setbotpp
+║◈ ${prefix}block @user
+║◈ ${prefix}unblock @user
+║◈ ${prefix}bcgroup
+║◈ ${prefix}bcall`
     const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
                         hydratedTemplate: {
