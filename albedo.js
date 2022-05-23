@@ -3136,15 +3136,15 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Media/astapic.jpg')},
-                            hydratedFooterText: `Asta-MD`,
+                            hydratedFooterText: `Juice-Bot`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'Profile 📍',
-                                    url: 'https://github.com/Eximinati'
+                                    displayText: 'Profile ',
+                                    url: 'https://Instagram.com/juice_kid_offcll'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '👤Owner👤',
+                                    displayText: 'Owner',
                                     id: `${prefix}owner`
                                 }
                             }]
@@ -3173,15 +3173,16 @@ break
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Media/astapic.jpg')},
-                            hydratedFooterText: `Asta-MD`,
+                            hydratedFooterText: `Juice-Bot`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'profile📍',
-                                    url: 'https://github.com/Eximinati'
+                                    displayText: 'profile📍
+',
+                                    url: 'https://Instagram.com/juice_kid_offcll'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '👤Owner👤',
+                                    displayText: 'Owner',
                                     id: `${prefix}owner`
                                 }
                             }]
@@ -3315,15 +3316,15 @@ break
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Media/astapic.jpg')},
-                            hydratedFooterText: `Asta-MD`,
+                            hydratedFooterText: `Juice-Bot`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'profile📍',
-                                    url: 'https://github.com/Eximinati'
+                                    displayText: 'profile',
+                                    url: 'https://Instagram.com/juice_kid_offcll'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '👤Owner👤',
+                                    displayText: Owner',
                                     id: `${prefix}owner`
                                 }
                             }]
