@@ -2496,46 +2496,47 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Media/astapic.jpg')},
-                            hydratedFooterText: `Ohayo🤚 ${pushname}
+                            hydratedFooterText: `Hey ${pushname}
 How Are You? 😊
 
 
-〔❖ Bot Info ❖〕
-
-║𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
-║𝗥𝘂𝗻𝘁𝗶𝗺𝗲 : ${runtime(process.uptime())}
-║𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ${global.botnma}
-║𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : ${global.ownernma}
-║𝗢𝘄𝗻𝗲𝗿 𝗡𝘂𝗺𝗯𝗲𝗿 : ${global.owner}
-║𝗛𝗼𝘀𝘁 𝗡𝗮𝗺𝗲 : ${os.hostname()}
-║𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : ${os.platform()}
+╔〔❖ Bot Info ❖〕
+║
+║Speed : ${latensie.toFixed(4)} miliseconds
+║Runtime : ${runtime(process.uptime())}
+║Bot Name : ${global.botnma}
+║Owner Name : ${global.ownernma}
+║Owner Number : ${global.owner}
+║Host Name : ${os.hostname()}
+║Platform : ${os.platform()}
 ║
 ║
 ║Please Select Button Below
+╚═══════════════════✠
 `,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'Profile 📍',
-                                    url: 'https://github.com/Eximinati'
+                                    displayText: 'Profile ',
+                                    url: 'https://Instagram.com/juice_kid_offcll'
                                 }
                             }, {
                             	urlButton: {
-                                displayText: 'Script🔖',
-                                    url: 'https://github.com/Eximinati/Ari-Ani-md'
+                                displayText: 'Script',
+                                    url: 'https://github.com/'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '🍇All Menu🍇',
+                                    displayText: 'All Menu',
                                     id: `${prefix}allmenu`
                                 }
                                 }, {
                                 quickReplyButton: {
-                                    displayText: '🍒List Menu🍒',
+                                    displayText: 'List Menu',
                                     id: `${prefix}command`
                                 }
                                 }, {
                                 quickReplyButton: {
-                                    displayText: '👤Owner👤',
+                                    displayText: 'Owner',
                                     id: `${prefix}owner`
                                 }
                             }]
@@ -2551,7 +2552,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
                     title: `Konichiwa  ${pushname}`,
                     description: `Please Choose The Menu\n\n`,
                     buttonText: "Menu",
-                    footerText: "_Asta-MD_",
+                    footerText: "_Juice-Bot_",
                     listType: "SINGLE_SELECT",
                     sections: [{
 								"title": "Group Features",
@@ -2682,15 +2683,15 @@ case 'grupmenu': {
                             hydratedContentText: anu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Media/astapic.jpg')},
-                            hydratedFooterText: `Asta-MD`,
+                            hydratedFooterText: `Juice-Bot`,
                             hydratedButtons: [{
                                 urlButton: {
                                     displayText: 'Profile 📍',
-                                    url: 'https://github.com/Eximinati'
+                                    url: 'https://Instagram.com/juice_kid_offcll'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '👤Owner👤',
+                                    displayText: 'Owner',
                                     id: `${prefix}owner`
                                 }
                             }]
@@ -2724,15 +2725,15 @@ case 'downloadmenu': {
                             hydratedContentText: okemenu,
                             locationMessage: {
                             jpegThumbnail: fs.readFileSync('./Media/astapic.jpg')},
-                            hydratedFooterText: `Asta-MD`,
+                            hydratedFooterText: `Juice-Bot`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'Profile 📍',
-                                    url: 'https://github.com/Eximinati'
+                                    displayText: 'Profile ',
+                                    url: 'https://Instagram.com/juice_kid_offcll'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '👤Owner👤',
+                                    displayText: 'Owner',
                                     id: `${prefix}owner`
                                 }
                             }]
